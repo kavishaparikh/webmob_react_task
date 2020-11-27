@@ -1,0 +1,11 @@
+.sum{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-weight: 900;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+    
+}
